@@ -137,7 +137,7 @@ public class MyCommands
             try
             {
                 var jsonString = await File.ReadAllTextAsync(blacklistFile);
-                blacklist = JsonSerializer.Deserialize<BlacklistFile>(jsonString) ?? throw new NullReferenceException();
+                blacklist = JsonSerializer.Deserialize<BlacklistFile>(jsonString, JsonOptions) ?? throw new NullReferenceException();
             }
             catch (Exception ex)
             {
