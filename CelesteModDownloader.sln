@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CelesteModDownloader", "CelesteModDownloader\CelesteModDownloader.csproj", "{704DCEB4-ED4B-49A4-B93C-700522A4E0EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{704DCEB4-ED4B-49A4-B93C-700522A4E0EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{704DCEB4-ED4B-49A4-B93C-700522A4E0EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{704DCEB4-ED4B-49A4-B93C-700522A4E0EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{704DCEB4-ED4B-49A4-B93C-700522A4E0EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85C9285B-E961-4109-85C9-A8E81584CFD4}
+	EndGlobalSection
+EndGlobal
